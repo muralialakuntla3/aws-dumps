@@ -30,3 +30,9 @@
 
 - Practioner : https://aws.amazon.com/certification/certified-cloud-practitioner/
 - Associate Solutions Arhitect : https://aws.amazon.com/certification/certified-solutions-architect-associate/
+## AWS DEVOPS ENGINEER
+
+- Dump1 : https://aws.amazon.com/certification/certified-devops-engineer-professional/
+- Dump2 : https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS%20Certified%20DevOps%20Engineer%20-%20Professional_Sample%20Questions.pdf
+- Dump3 : https://www.certification-questions.com/amazon-pdf/aws-devops-engineer-professional-pdf.html
+
